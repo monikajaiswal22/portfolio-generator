@@ -2,7 +2,8 @@
 
 I've built a powerful web application that helps anyone create a stunning professional portfolio in minutes!
 
-🌐 **Live Demo:** https://monikajaiswal22.github.io/portfolio-generator/
+🌐 **Live Demo:** https://monikajaiswal22.github.io/portfolio-generator
+
 💻 **GitHub:** https://github.com/monikajaiswal22/portfolio-generator
 
 **✨ Key Features:**
